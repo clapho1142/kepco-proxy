@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/naver.js": { "runtime": "nodejs18.x" }
-  }
-}
